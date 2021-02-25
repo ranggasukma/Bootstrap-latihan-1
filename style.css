@@ -1,0 +1,19 @@
+body{
+	background-image: url(aset/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.profil{
+	margin-bottom: 50px;
+}
+.profil img{
+	margin-top: 20px;
+}
+.d-flex img{
+	margin-right: 20px;
+}
+.skill{
+	width: 80%;
+	margin: auto;
+}
